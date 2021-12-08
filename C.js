@@ -1,1 +1,0 @@
-<scipt>alert("123");</scipt>
